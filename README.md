@@ -16,7 +16,7 @@ Le principali azioni coordinate dal Capo del Dipartimento sono volte al soccorso
 ## View Notebook here:
 https://nbviewer.org/github/HaelArena/COVID19IT-Public/blob/main/analysis.ipynb
 
-## Installation
+## Dependencies
 
 ```bash
 pip install -r requirements.txt
